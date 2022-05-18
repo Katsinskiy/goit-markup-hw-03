@@ -88,9 +88,9 @@ body {font-family: 'Roboto', sans-serif;
     padding-bottom: 20px;
     }
 
-    .logo-item {
+    /* .logo-item {
     padding-top: 24px;
-    padding-bottom: 24px;}
+    padding-bottom: 24px;} */
 
     .logo-item:not(:last-child) {
         margin-right:30px;}
