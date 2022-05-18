@@ -269,13 +269,10 @@ padding: 200px 390px;}
 }
 
     .member-team {
-    width: 270px;
-    
+    width: 270px;    
     margin-right: 30px;
     border: 1px solid #ECECEC;
-    
-
-    
+       
     }
 
     .member-team:last-child {margin-right: 0;}
@@ -400,9 +397,11 @@ padding: 200px 390px;}
     /* .products:nth-last-child(-n+3) {padding-bottom: 94px;} */
 
     .about-products
-    {padding: 20px 24px; }
+    {padding: 20px 24px; 
+    border: 1px solid #ECECEC;}
     
     .project {padding: 0;}
+    .products-img {display: block;}
     
     
 
